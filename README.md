@@ -9,4 +9,4 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-I'm developer. 💙 In love with Ruby, Vue, React and 🌱 Currently learning Elixir
+I'm developer 💙 in love with Ruby, Vue, React and 🌱 currently learning Elixir
