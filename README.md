@@ -9,7 +9,4 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Hugo Lyra and I'm developer.
-
- - 💙 In love with Ruby, Vue, React
- - 🌱 Currently learning Elixir
+I'm developer. 💙 In love with Ruby, Vue, React and 🌱 Currently learning Elixir
