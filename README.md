@@ -10,3 +10,5 @@
 ### Hellooo! 👋 Welcome to my profile
 
 I'm developer 💙 in love with Ruby, Vue, React and 🌱 currently learning Elixir
+
+Want to know more look at [hugolyra.com](https://www.hugolyra.com/)
