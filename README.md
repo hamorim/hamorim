@@ -14,3 +14,5 @@ I'm developer 💙 in love with Ruby, Vue, React and 🌱 currently learning Eli
 Want to know more? Please look at [hugolyra.com](https://www.hugolyra.com/)
 
 <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamorim&layout=compact&theme=dracula" />
+
+![Snake animation](hamorim)
