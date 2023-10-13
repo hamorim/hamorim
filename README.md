@@ -15,4 +15,4 @@ Want to know more? Please look at [hugolyra.com](https://www.hugolyra.com/)
 
 <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamorim&layout=compact&theme=dracula" />
 
-![Snake animation](https://github.com/hamorim/hamorim/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/hamorim/hamorim/blob/output/dracula.svg)
