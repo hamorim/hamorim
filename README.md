@@ -9,7 +9,7 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-I'm developer 💙 in love with Ruby, Vue, React and 🌱 currently learning Elixir
+I'm developer 💙 in love with Ruby, Vue, React and 🌱 currently learning GO
 
 Want to know more? Please look at [hugolyra.com](https://www.hugolyra.com/)
 
