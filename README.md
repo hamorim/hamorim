@@ -13,8 +13,6 @@ I'm developer 💙 in love with Ruby, Vue, React and 🌱 currently learning GO
 
 Want to know more? Please look at [hugolyra.com](https://www.hugolyra.com/)
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=hamorim&show_icons=true&theme=dracula)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=hamorim&theme=dracula)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamorim&layout=compact&theme=dracula)
-
 ![Snake animation](https://github.com/hamorim/hamorim/blob/output/dracula.svg)
